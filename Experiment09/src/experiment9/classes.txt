@@ -1,0 +1,27 @@
+AWS Well-Architected Framework 
+Cost Optimization with AWS 
+Amazon EC2 Cost and Capacity Optimization
+Instance Scheduler on AWS
+Using Amazon CloudWatch alarms
+AWS Lambda 
+Amazon Event Bridge
+
+
+
+exp 6 and 7 
+
+ ec2 ( AWS environment )-- Virtual Machine and Virtual Server 
+
+VM templates we have to use any AMI which has three configuration( OS type , ram , computer power ) 
+
+should be have three functionalities Hosting , Dev and Testing
+
+1 create a ec2 instances ( security key ko download karna hoga) {Ubuntu free tier} 
+2 EBS volume - 20 GB 
+3 Attach that EBs volume to that EC 2 instances 
+4 start ec2 instance
+
+5 CLI - Login to a ec2 instances 
+6 install python 
+7 check version python 
+8 
